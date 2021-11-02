@@ -1,8 +1,18 @@
-# wireless_final 
+# CovidHelper: Body Temperature Measurement and Automatic Notification System
 
-這是一個幫助老師了解學生出缺席狀況的小幫手！
+This is a sw-hw integration IoT application delivered by Raspberry Pi, LoRa and Python. 
+As COVID-19 pandemic burst out, students have to be taken body temperature at each entering fo school building, which is really a cumbersome work as schools have to allocate extra personnel at each entrance, might perhaps have those personnel exposed under even greater risk get infected. 
+Therefore, our team integrated IoT devices and software system and created a fully-automatic system for body temperature measurement and alert report notification. 
 
-流程：
+這個軟硬體整合系統提供疫情下在學校場館各個入口的體溫量測與警示服務。從體溫量測、判斷體溫是否正常至寄送量測報告，達成全自動化服務，減少人事成本與感染風險。
+
+---
+## System Workflow
+
+
+ 
+
+## How to use?
 學生量測體溫並記錄對應學號<br>
  case 0: 體溫<30度 => 重新量測，不寄信。<br>
  case 1: 30<體溫<37.5 => 正常，出席，寄信給學生(Student is healthy!)<br>
