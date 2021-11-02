@@ -8,7 +8,7 @@ Therefore, our team integrated IoT devices and software system and created a ful
 
 ---
 ## System Workflow
-
+![image](https://github.com/lykasbongbongbong/Wireless_Final/blob/master/System_Workflow.png)
 
  
 
